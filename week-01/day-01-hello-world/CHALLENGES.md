@@ -40,10 +40,10 @@ Then print a nice summary card!
 ╔════════════════════════════════╗
 ║      STUDENT INFO CARD         ║
 ╠════════════════════════════════╣
-║ Name:    Alex Johnson          ║
-║ Age:     16 years old          ║
+║ Name:    Adnan Haroun          ║
+║ Age:     23 years old          ║
 ║ Color:   Blue                  ║
-║ City:    San Francisco         ║
+║ City:    Accra         ║
 ╚════════════════════════════════╝
 ```
 

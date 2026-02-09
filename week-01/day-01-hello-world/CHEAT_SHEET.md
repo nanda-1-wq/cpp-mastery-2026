@@ -28,7 +28,7 @@ int age = 16;
 std::cout << age << std::endl;
 
 // Print multiple things
-std::cout << "I am " << age << " years old" << std::endl;
+std::cout << "I am " << age << "years old" << std::endl;
 
 // New line (two ways)
 std::cout << "Line 1" << std::endl;
