@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/adnan/Desktop/cpp-mastery-2026/week-01/day-01-hello-world",
+      "program": "/Users/adnan/Desktop/cpp-mastery-2026/week-01/day-01-hello-world/build/Debug/outDebug"
+    }
+  ]
+}
