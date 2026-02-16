@@ -33,7 +33,7 @@ C++ is a powerful, fast programming language used to build:
 
 1. Go to [github.com](https://github.com) and sign in
 2. Click the **+** icon (top right) → **New repository**
-3. Name it: `cpp-mastery-2025` or `learning-cpp`
+3. Name it: `cpp-mastery-2026` or `learning-cpp`
 4. ✅ Check "Add a README file"
 5. Choose "Public" (so I can see your progress!)
 6. Click **Create repository**
@@ -47,10 +47,10 @@ Open **Terminal** (or use VS Code's integrated terminal):
 cd ~/Documents
 
 # Clone your repo (replace YOUR-USERNAME)
-git clone https://github.com/YOUR-USERNAME/cpp-mastery-2025.git
+git clone https://github.com/YOUR-USERNAME/cpp-mastery-2026.git
 
 # Enter the folder
-cd cpp-mastery-2025
+cd cpp-mastery-2026
 ```
 
 ### Step 3: Open in VS Code

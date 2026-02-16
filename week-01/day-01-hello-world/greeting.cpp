@@ -1,3 +1,26 @@
+#include <iostream>
+#include <string>
+
+int main(){
+
+    std::string name;
+    int age;
+
+    std::cout <<"What is your name ?";
+    std::cin >> name;
+
+    std::cout << "how old are you ?";
+    std::cin >> age;
+
+    std::cout << "Hello, " << name << "!" <<std::endl;
+    std::cout << "You are " << age << "years old" << std::endl;
+    std::cout << "welcom to C++ programming language class" << std::endl;
+
+    return 0;
+}
+
+
+
 // greeting.cpp - Personalized Greeting Program
 // Week 1, Day 1 - Project
 // 
@@ -47,3 +70,15 @@ int main() {
  * Welcome to C++ programming!
  * ================================
  */
+
+
+
+
+
+
+
+
+
+
+
+
