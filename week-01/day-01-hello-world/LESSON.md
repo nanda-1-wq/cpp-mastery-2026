@@ -241,4 +241,4 @@ Share your code with me and I'll help debug!
 
 ---
 
-*Lesson created for cpp-mastery-2025 | Week 1, Day 1*
+*Lesson created for cpp-mastery-2026 | Week 1, Day 1*

@@ -5,6 +5,6 @@
 
 int main(){
     std::cout <<"Hello World!" << std::endl;
+    std::cout <<"Welcome to C++ programming"<<std::endl;
+    std::cout <<"This is going to be AWESOME!"<<std::endl;
 }
-
-
